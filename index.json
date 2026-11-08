@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "amplio",
+  "versions": [
+    {
+      "commit": "5476089b60703d2874d1536ab0123f6b4560d931",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:00:05.043438+00:00"
+    }
+  ]
+}
